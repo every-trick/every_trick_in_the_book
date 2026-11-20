@@ -1,8 +1,8 @@
 # every_trick_in_the_book
 
-every_trick_in_the_book by SJMcH, a Mattering toolkit: every trick in the book for making books.
+every_trick_in_the_book by SJMcH, every trick in the book for making books.
 
-It turns a book written in Markdown into an open, static website that can be cited to the paragraph:
+It turns a book written in Markdown into an open, static website that can be cited by paragraph:
 
 - every reading paragraph has a number that depends only on the text, so a citation such as ‘(Nassar 2026: para.
   12)’ keeps pointing at the same words;
@@ -20,7 +20,7 @@ every_trick_in_the_book is developed with its first book, *Hear Here: Spatial Pr
 its code lives in that book’s repository, in the `every_trick/` folder; it will move here.
 
 - [What’s new](https://github.com/mattering-press/Hear-Here-Spatial-Practices/blob/main/every_trick/CHANGELOG.md): every
-  version of the toolkit and what changed in it
+  version of every_trick and what changed in it
 - [The contract](https://github.com/mattering-press/Hear-Here-Spatial-Practices/blob/main/every_trick/CONTRACT.md): the
   rules for content (paragraph numbers, poems, versions) and the data the build writes
 - [The code](https://github.com/mattering-press/Hear-Here-Spatial-Practices/tree/main/every_trick)
