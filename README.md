@@ -1,6 +1,6 @@
 # every_trick_in_the_book
 
-by SJMcH uses every trick in the book for making books.
+by [SJMcH](studiojulienmchardy) uses every trick in the book for making books.
 
 It turns a book written in Markdown into an open, static website that can be cited by paragraph:
 
