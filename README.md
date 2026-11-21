@@ -2,6 +2,10 @@
 
 by SJMcH uses every trick in the book for making books.
 
+<img width="250" height="269" alt="image" src="https://github.com/user-attachments/assets/78cee86e-cb58-4d76-b72f-9a9f5e26db31" />
+https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Herkulaneischer_Meister_002b.jpg/250px-Herkulaneischer_Meister_002b.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
+Woman holding wax tablets in the form of the codex. Wall painting from Pompeii, before 79 CE.
+
 It turns a book written in Markdown into an open, static website that can be cited by paragraph:
 
 - every reading paragraph has a number that depends only on the text, so a citation such as ‘(Nassar 2026: para.
