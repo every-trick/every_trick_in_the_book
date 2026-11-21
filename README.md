@@ -39,4 +39,4 @@ licence for commercial use. The details are in
 [NOTICE.md](https://github.com/mattering-press/Hear-Here-Spatial-Practices/blob/main/every_trick/NOTICE.md). Please get in
 touch before sending changes.
 
-Copyright © 2026 Studio Julien McHardy (SJMcH). Made for Mattering Press, its first publisher.
+Copyright © 2026 Studio Julien McHardy (SJMcH). Made with and for Mattering Press, its first publisher.
