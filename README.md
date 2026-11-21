@@ -7,7 +7,7 @@ Woman holding wax tablets in the form of the codex. Wall painting from Pompeii, 
 
 ---
 
-It turns a book written in Markdown into an open, static website that can be cited by paragraph:
+every_trick turns a book written in Markdown into an open, static website that can be cited by paragraph:
 
 - every reading paragraph has a number that depends only on the text, so a citation such as ‘(Nassar 2026: para.
   12)’ keeps pointing at the same words;
